@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi there 🌟
+I'm Matthew and I'm a beginner programmer.
 
+I learn how does IT work, make small projects and always loking forward to have a job. 
+
+I write code in **rust**, **python**, and C++ a bit. I use Arch, btw. Also I use Vim, btw.
+
+I'm currently working on [number-game-plus](https://github.com/matgo1/number-game-plus)
 <!--
 **matgo1/matgo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
