@@ -11,6 +11,7 @@ I'm currently working on [number-game-plus](https://github.com/matgo1/number-gam
 ---
 ### How to Reach Me
 Email - mathewstaran2707@gmail.com.
+My LinkedIn - www.linkedin.com/in/matthew-starway
 
 ---
 ### Hobbies 
