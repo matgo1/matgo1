@@ -1,4 +1,4 @@
-## Hi there
+## Hi there!
 I'm Matthew and I'm a beginner programmer.
 
 I learn how does IT work, make small projects and always loking forward to have a job. 
