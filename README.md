@@ -12,8 +12,6 @@ I'm currently working on [number-game-plus](https://github.com/matgo1/number-gam
 ### How to Reach Me
 The best way is my email - mathewstaran2707@gmail.com.
 
-I'm going to add more ways for comunication in the futrue.
-
 ---
 ### Hobbies 
 - programming 
