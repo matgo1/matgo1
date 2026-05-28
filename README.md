@@ -15,10 +15,14 @@ The best way is my email - mathewstaran2707@gmail.com.
 I'm going to add more ways for comunication in the futrue.
 
 ---
-### Fun facts
-- I have a cat
-- I play chess
-- **Hobbies**: programming, gym, watching films and series.
+### Hobbies 
+- programming 
+- reading 
+- chess
+- learning languages 
+- watching movies and series 
+
+
 <!--
 **matgo1/matgo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
