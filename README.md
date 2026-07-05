@@ -5,9 +5,6 @@ I learn how does IT work, make small projects and always loking forward to have 
 
 I write code in **rust**, **python**, and C++ a bit. I use Arch, btw. Also I use Vim, btw.
 
-### My Current Project
-I'm currently working on [number-game-plus](https://github.com/matgo1/number-game-plus) to practice all basics and want to develop it in a ground for learning new features in the future.
-
 ---
 ### How to Reach Me
 Email - mathewstaran2707@gmail.com.
